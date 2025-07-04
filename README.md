@@ -48,5 +48,5 @@ It helped me understand:
 
 > 💡 This is part of my ongoing journey. I will update this project as I learn more advanced Excel and tools like Power BI or Tableau.
 > Dashboard Image
-![Screenshot 2025-07-02 222603](https://github.com/user-attachments/assets/6bec0c46-43ae-4b45-8be2-319b7aaba474)
+https://github.com/Sunny279k/excel-sales-dashboard/blob/main/Screenshot%202025-07-04%20185506.png
 
